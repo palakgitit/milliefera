@@ -733,26 +733,6 @@ H4 {
 }
 
 
-.product {
-
-    background-image: url(../img/bg-3.png);
-    background-repeat: no-repeat;
-    background-size: cover;
-}
-
-.about {
-
-    background-image: url(../img/bg-2.png);
-    background-repeat: no-repeat;
-    background-size: cover;
-}
-
-.types {
-
-    background-image: url(../img/footer.png);
-    background-repeat: no-repeat;
-    background-size: cover;
-}
 
 .typeText h4 {
 
